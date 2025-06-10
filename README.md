@@ -1,9 +1,5 @@
 # Ollama Translation API
 
-<p align="center">
-  <img src="langsmith.png" alt="Proje Görseli" width="500"/>
-</p>
-
 Bu proje, [Ollama](https://ollama.com)'nın `llama3.1:8b` modeli kullanılarak geliştirilen, metinleri farklı dillere çevirebilen bir çeviri API'sidir. FastAPI çatısı üzerinde kurulmuştur ve LangChain araçlarıyla entegre çalışır.
 
 ---
